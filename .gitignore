@@ -2,5 +2,4 @@
 build
 data/tv_tuanliu.mkv
 out/main
-results/*
-!results/INFER_ONCE_result.jpg
+results/output_video.avi
