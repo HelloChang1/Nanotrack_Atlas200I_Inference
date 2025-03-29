@@ -119,7 +119,7 @@
     ```
 
     图片结果展示：
-    [跟踪结果](results/INFER_ONCE_result.jpg)
+    ![跟踪结果](results/INFER_ONCE_result.jpg)
 
 
 ## 相关操作<a name="section27901216172515"></a>
